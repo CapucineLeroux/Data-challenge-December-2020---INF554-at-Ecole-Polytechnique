@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Retweet prediction
 
 The data challenge was posted on Kaggle : https://www.kaggle.com/c/covid19-retweet-prediction-challenge-2020/overview 
@@ -14,4 +12,3 @@ Secondly, you need to run the "Preprocessing the data" to preprocess almost ever
 ## Model training
 
 Run the "Training our model". It will create a file in the *results* folder with the submission.
->>>>>>> a8c02e17a78e93a8940460b9d207bab8c8dee61f
